@@ -1,0 +1,4 @@
+# Project exclude paths
+/light-aspects-agent/target/
+/light-aspects-commons/target/
+/light-aspects-config/target/
