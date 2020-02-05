@@ -14,6 +14,8 @@
         <module>light-aspects-commons</module>
     </modules>
     <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <!-- custom properties from here -->
         <javassist.version>3.12.1.GA</javassist.version>
         <jackson.version>2.10.2</jackson.version>
     </properties>
